@@ -186,6 +186,11 @@ hash = "2e8e746d6f81c3dbb935bb2f3074d129574dd03d19d201975c5049fd70a54dc2"
 metafile = true
 
 [[files]]
+file = "mods/plan-player-analytics.pw.toml"
+hash = "3e0b9e2d5b9ab1bcc58f4b0b264de93c688bcef8f18cf693b4b7d951342c19c4"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
