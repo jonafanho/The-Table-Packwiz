@@ -1,13 +1,13 @@
 name = "Ad Astra Delight"
-filename = "ad-astra-delight-1.0.2.2-1.20.1-fabric.jar"
+filename = "adastradelight-1.1.0-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8gylzbLw/versions/YYlHWEJs/ad-astra-delight-1.0.2.2-1.20.1-fabric.jar"
-hash-format = "sha1"
-hash = "212f1e32dad68276ecdcd8af8f6074195cba47a1"
+url = "https://cdn.modrinth.com/data/8gylzbLw/versions/386H8fJv/adastradelight-1.1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "ffb02eeb43d8808ac692ce8cdaf98edcfd0114b07558e84854aca78ab1397a0536b95d781d4e0c20019359e6adbec561290b76481f0aafaa217602ab724eb599"
 
 [update]
 [update.modrinth]
 mod-id = "8gylzbLw"
-version = "YYlHWEJs"
+version = "386H8fJv"
