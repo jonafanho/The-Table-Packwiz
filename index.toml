@@ -16,6 +16,11 @@ hash = "0273a578ec15f3eb9a9d44996a30b969397641ed27e3d1abe0c5f73bd70a4fdc"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "375d3edef0d8974ea803f2935fcc78a52d536e5a74f18f26aa67ddd316c5f224"
+metafile = true
+
+[[files]]
 file = "mods/anvil-fix-reborn.pw.toml"
 hash = "2fc7a294cec5f3a36878e0565c706783e3858e4479b29829f2c151565b2a3770"
 metafile = true
@@ -152,7 +157,22 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a1d48cedcbb9151db74d7fd44ac448d0f23c15796f419b8397189699447b9f3b"
+hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "ac7a23bef8a66288e60bb8767df21b76f41b672e8f762ed1aef1f93876eb8689"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "b4d8fbc8ad0bb58c2194116b6c35bacbea824eb30e403fbbf5e5194da9084602"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "fdd5bb8db6166ec641236cffa0a6a098387ecc6921474ebc56225ca1704b3de9"
 metafile = true
 
 [[files]]
