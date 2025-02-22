@@ -16,11 +16,6 @@ hash = "0273a578ec15f3eb9a9d44996a30b969397641ed27e3d1abe0c5f73bd70a4fdc"
 metafile = true
 
 [[files]]
-file = "mods/anti-creeper.pw.toml"
-hash = "6499d7890f7b2c87df9827c968c35f3591fd48197cf7429930ac24f2839edaa7"
-metafile = true
-
-[[files]]
 file = "mods/anvil-fix-reborn.pw.toml"
 hash = "2fc7a294cec5f3a36878e0565c706783e3858e4479b29829f2c151565b2a3770"
 metafile = true
@@ -96,6 +91,11 @@ hash = "a116fba41450195d1941b326eb0f9f0137fb3bce9312ffac55308dd243a21e02"
 metafile = true
 
 [[files]]
+file = "mods/environmental-creepers.pw.toml"
+hash = "93104ebb7bc38bdd475f9755f95fc21753da4a79c2801a680be2625d89d727a6"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "a74044f64e15149ea7e2efd2a2fcb2d8818e26ff0d27d2f684a287a12e2378aa"
 metafile = true
@@ -103,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "98dd654d4a179825ed13cf12913aeee257b56c0986a8aa352b42749656bc47a7"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "a79279c798e10b673c3e7dfbe675a29e09d5709ddf38d7300356346a7d29ac13"
 metafile = true
 
 [[files]]
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "cacd5a91708f799da27924f237b9252d05438de1f9b4e3e978bf3894e8574df0"
 metafile = true
 
 [[files]]
