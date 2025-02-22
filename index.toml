@@ -71,11 +71,6 @@ hash = "f0f18290ff48f9060307f5776f7b2307e8d2cb72aa14f3c799a63d7b1e3efe0a"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
-metafile = true
-
-[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "39ce56eff26bbbe40f7a236c0f73e103f499625f99b5401a7f87e2273cdae97e"
 metafile = true
@@ -181,8 +176,18 @@ hash = "6d4b0b0821140c832c9cc6cd537d80b6c9925c4674bce3b86cc5383821151ea9"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "5e140793f9c08f4466342b2a25a075fe6dc27b883cd8346a7d44e6bc6af6e972"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "d5204a9b2816324062d061c7d47e37558fd4c05a9d5f87509874764f2ba7171d"
 metafile = true
 
 [[files]]
@@ -233,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "0452ea33020c62f7ec06b88cfd5dd9f33d8923d68ecd1512132730e388eb4bf5"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "6d0f90e567e49885fa3d818d3644a774b89c545ea78dfa18a57015e736aca388"
 metafile = true
 
 [[files]]
