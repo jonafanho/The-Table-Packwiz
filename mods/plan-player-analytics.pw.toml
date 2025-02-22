@@ -1,0 +1,13 @@
+name = "Plan | Player Analytics"
+filename = "PlanFabric-5.5-build-2461.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aeeb6d1293b7988577fde34300c444156ad79c67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4656894
+project-id = 508727
