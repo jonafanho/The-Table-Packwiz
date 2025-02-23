@@ -21,9 +21,16 @@ packwiz modrinth add -y ct-overhaul-village
 packwiz modrinth add -y ctov-farmers-delight-compat
 packwiz modrinth add -y cultural-delights-fabric
 packwiz modrinth add -y cyberanner-ironchest
+packwiz modrinth add -y emi
+packwiz modrinth add -y emi-enchanting
+packwiz modrinth add -y emi-loot
+packwiz modrinth add -y emi-ores
+packwiz modrinth add -y emiffect
+packwiz modrinth add -y emitrades
 packwiz modrinth add -y entityculling
 packwiz modrinth add -y environmental-creepers
 packwiz modrinth add -y expanded-delight
+packwiz modrinth add -y extra-mod-integrations
 packwiz modrinth add -y farmers-delight-refabricated
 packwiz modrinth add -y ferrite-core
 packwiz modrinth add -y indium

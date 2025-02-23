@@ -121,6 +121,36 @@ hash = "2f7b032107ae72bdab0025995de49b8f7434a03f3316045b56e29e39648ffbb8"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "aef45a1afd270204f96f05142cd1013146e87428e4ffaef3f54148d7f1836916"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "3adbd90351458dbb20a0c1a4bf6c7eda081782eacb5252a863cff3dea6cfc7c0"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "f9109bb1aae21525af8da7ed9d062b5a9c3f32a520a4fb5816847e051b64dd34"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "48b7bf8cff4f625864347ac4de0311b50fd867da54cf732d51b165b09a1b2af3"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "aa098fe2f0399fe8c95450af73f406eba41aee3bb58f5a450c434c713ca8cf5f"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "c3bf7d6d25260b023f8cd2906527bf2ddfe36eb7929894ac0ae6d61abe2328cd"
 metafile = true
@@ -133,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "0f6f3fd47bcc2ceb48037121a2691d2af6478a5a2f0b8c78c7287f41442059da"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "376321a4e11e86d932670192b6ddebfd7b898c4e47e74a6b08c7c0123a0aa49c"
 metafile = true
 
 [[files]]
@@ -153,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "7fcd61647cb58f7d690016a19c9e89e7280dcd1a31f57c66426ac95ec0e66653"
 metafile = true
 
 [[files]]
@@ -247,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d5204a9b2816324062d061c7d47e37558fd4c05a9d5f87509874764f2ba7171d"
+hash = "15dfe0c33fbb7b3348188918b34f128aeb1062515ba003506f281d17d0c4537c"
 metafile = true
 
 [[files]]
