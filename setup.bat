@@ -1,4 +1,4 @@
-del mods\* /q
+del mods\*.toml
 
 packwiz curseforge add -y plan-player-analytics
 packwiz modrinth add -y ad-astra
@@ -15,6 +15,7 @@ packwiz modrinth add -y betternether-delight
 packwiz modrinth add -y botania
 packwiz modrinth add -y botania-delight
 packwiz modrinth add -y carpet
+packwiz modrinth add -y chunky
 packwiz modrinth add -y continuity
 packwiz modrinth add -y ct-overhaul-village
 packwiz modrinth add -y ctov-farmers-delight-compat
@@ -73,6 +74,9 @@ packwiz modrinth add -y yungs-bridges
 packwiz modrinth add -y yungs-cave-biomes
 packwiz modrinth add -y yungs-extras
 packwiz modrinth add -y zoomify
+
+packwiz modrinth add -y fabric-language-kotlin
+packwiz modrinth add -y necronomicon
 
 del mods\farmers-delight-fabric.pw.toml
 packwiz refresh
