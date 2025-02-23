@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/13GkE1TZ/MTR-fabric-4.0.0-beta.15%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "a64a8b9bc22a8f0fac853305cdebdd84cb7b686d"
+hash-format = "sha512"
+hash = "76a337d7424ad9d5286b360c270ee55848099dd19e9ab0eae47c6ad03d4bb257b33541f6a3714456fbffa17a3e6f78e211679b7559d2fb84058842fbf4c664fc"
 
 [update]
 [update.modrinth]
