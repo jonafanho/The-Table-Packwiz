@@ -45,6 +45,7 @@ packwiz modrinth add -y just-enough-resources-jer
 packwiz modrinth add -y justenoughbreeding
 packwiz modrinth add -y lambdynamiclights
 packwiz modrinth add -y lithium
+packwiz modrinth add -y lootr
 packwiz modrinth add -y memoryleakfix
 packwiz modrinth add -y minecraft-transit-railway
 packwiz modrinth add -y modern-industrialization

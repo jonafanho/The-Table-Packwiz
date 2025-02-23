@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a7031f5a9c30d6306bb72b0d0b4e5c1b06715cccb5cac576b731777a250612c5"
+hash = "595fd01031be460097435c8fed3777e7736b0daf0321f9237dad75b4cd507a84"
 metafile = true
 
 [[files]]
@@ -263,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "95c6186b4eb881f1bf6beea9aedefcc73388e4c301754e65722d85764243318b"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
 metafile = true
 
 [[files]]
