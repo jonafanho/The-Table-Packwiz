@@ -87,6 +87,7 @@ packwiz modrinth add -y fabric-language-kotlin
 packwiz modrinth add -y necronomicon
 
 del mods\farmers-delight-fabric.pw.toml
+del mods\terrablender.pw.toml
 packwiz refresh
 
 pause
