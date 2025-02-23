@@ -79,7 +79,6 @@ packwiz modrinth add -y yungs-better-ocean-monuments
 packwiz modrinth add -y yungs-better-strongholds
 packwiz modrinth add -y yungs-better-witch-huts
 packwiz modrinth add -y yungs-bridges
-packwiz modrinth add -y yungs-cave-biomes
 packwiz modrinth add -y yungs-extras
 packwiz modrinth add -y zoomify
 
@@ -87,7 +86,6 @@ packwiz modrinth add -y fabric-language-kotlin
 packwiz modrinth add -y necronomicon
 
 del mods\farmers-delight-fabric.pw.toml
-del mods\terrablender.pw.toml
 packwiz refresh
 
 pause
