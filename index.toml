@@ -21,6 +21,11 @@ hash = "375d3edef0d8974ea803f2935fcc78a52d536e5a74f18f26aa67ddd316c5f224"
 metafile = true
 
 [[files]]
+file = "mods/animationoverhaul.pw.toml"
+hash = "e33590c92b2e441f8aebada169190acb1e4b4c97bd925dec105b9e40c9bd1fcc"
+metafile = true
+
+[[files]]
 file = "mods/anvil-fix-reborn.pw.toml"
 hash = "2fc7a294cec5f3a36878e0565c706783e3858e4479b29829f2c151565b2a3770"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/betterend.pw.toml"
 hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
 metafile = true
 
 [[files]]
@@ -86,6 +96,11 @@ hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
 metafile = true
 
 [[files]]
+file = "mods/cyberanner-ironchest.pw.toml"
+hash = "f3586fdb624c6f02d881e9921073d9f217e09bb815ccafab83a55b0cc61fd283"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "a116fba41450195d1941b326eb0f9f0137fb3bce9312ffac55308dd243a21e02"
 metafile = true
@@ -126,8 +141,8 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
-file = "mods/incendium.pw.toml"
-hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
+file = "mods/geckolib.pw.toml"
+hash = "2321bdba8aed2b99d75de3fc2116bc28c1a1d671292bde0e4af4a3be2dee0dfe"
 metafile = true
 
 [[files]]
@@ -136,8 +151,8 @@ hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "cacd5a91708f799da27924f237b9252d05438de1f9b4e3e978bf3894e8574df0"
+file = "mods/inventory-management.pw.toml"
+hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
 metafile = true
 
 [[files]]
@@ -176,6 +191,11 @@ hash = "fdd5bb8db6166ec641236cffa0a6a098387ecc6921474ebc56225ca1704b3de9"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a5296cda8cb89c99e40de32ab124700f7a6feb922fb37170c7988422e521c6d8"
 metafile = true
@@ -192,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "6d4b0b0821140c832c9cc6cd537d80b6c9925c4674bce3b86cc5383821151ea9"
+hash = "f295cf7185f16e4a1a6c12cd72954e251205625eb8a8e2a1bcdcd1ffec83a9e9"
 metafile = true
 
 [[files]]
@@ -208,6 +228,16 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "d5204a9b2816324062d061c7d47e37558fd4c05a9d5f87509874764f2ba7171d"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
 
 [[files]]
@@ -243,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "e7df183183bf109d46b85ae43ba1528b01d7b096ed52f3e7287e4584d035b1a5"
 metafile = true
 
 [[files]]
