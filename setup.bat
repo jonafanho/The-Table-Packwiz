@@ -66,8 +66,6 @@ packwiz modrinth add -y tectonic
 packwiz modrinth add -y terralith
 packwiz modrinth add -y tree-harvester
 packwiz modrinth add -y villager-names-serilum
-packwiz modrinth add -y when-dungeons-arise
-packwiz modrinth add -y when-dungeons-arise-seven-seas
 packwiz modrinth add -y xaeros-minimap
 packwiz modrinth add -y xaeros-world-map
 packwiz modrinth add -y yungs-better-desert-temples

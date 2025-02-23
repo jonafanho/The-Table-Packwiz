@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/DungeonsArise-1.20.1-2.1.57-fabric-release.jar"
+hash = "e8efd54576797faff7cc221e26a41a097e985baa7889398defb15da4135d7cf8"
+
+[[files]]
+file = "mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar"
+hash = "e1d06438a5a9618fca45e754e7698b68b82eed15b3971ab742174c54d41d6ac9"
+
+[[files]]
 file = "mods/ad-astra-delight.pw.toml"
 hash = "1b294c19303c5be647430e6d47fd3c50d9b0daf86eca6cea947f1ef6030f9f1d"
 metafile = true
@@ -407,16 +415,6 @@ metafile = true
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "3cfc1070e53b96ec42fadea40770178eb4a2fdb50246879f570b164c2eb7b197"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise-seven-seas.pw.toml"
-hash = "85c1cbf795196996dbe063f1b22ba15d4a2962af613c4403c4793cd98c4d40d2"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "a4f596b65b72b0c718e35cfb2e1a36e1887438b44a39daeec75a1c725a0441c4"
 metafile = true
 
 [[files]]
