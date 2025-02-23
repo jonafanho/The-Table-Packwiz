@@ -311,6 +311,11 @@ hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
+file = "mods/no-enderman-grief.pw.toml"
+hash = "0272a323c4c72b52a805d248fefbb77326191333955cd399effbc0373026fc03"
+metafile = true
+
+[[files]]
 file = "mods/ore-harvester.pw.toml"
 hash = "36940c04cf3f98987ecd70cf582f018ab27ee6b023ad957c4f966a6024d4ecb3"
 metafile = true

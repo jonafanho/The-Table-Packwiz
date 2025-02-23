@@ -52,6 +52,7 @@ packwiz modrinth add -y modmenu
 packwiz modrinth add -y naturalist
 packwiz modrinth add -y natures-compass
 packwiz modrinth add -y no-chat-reports
+packwiz modrinth add -y no-enderman-grief
 packwiz modrinth add -y ore-harvester
 packwiz modrinth add -y smarter-farmers-farmers-replant
 packwiz modrinth add -y sodium
