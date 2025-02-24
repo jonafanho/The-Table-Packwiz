@@ -20,7 +20,6 @@ packwiz modrinth add -y continuity
 packwiz modrinth add -y ct-overhaul-village
 packwiz modrinth add -y ctov-farmers-delight-compat
 packwiz modrinth add -y cultural-delights-fabric
-packwiz modrinth add -y cyberanner-ironchest
 packwiz modrinth add -y emi
 packwiz modrinth add -y emi-enchanting
 packwiz modrinth add -y emi-loot
@@ -31,11 +30,13 @@ packwiz modrinth add -y entityculling
 packwiz modrinth add -y environmental-creepers
 packwiz modrinth add -y expanded-delight
 packwiz modrinth add -y extra-mod-integrations
+packwiz modrinth add -y fallingtree
 packwiz modrinth add -y farmers-delight-refabricated
 packwiz modrinth add -y ferrite-core
 packwiz modrinth add -y indium
 packwiz modrinth add -y inventory-management
 packwiz modrinth add -y iris
+packwiz modrinth add -y ironchests
 packwiz modrinth add -y jade
 packwiz modrinth add -y jade-addons-fabric
 packwiz modrinth add -y jei
@@ -54,7 +55,6 @@ packwiz modrinth add -y naturalist
 packwiz modrinth add -y natures-compass
 packwiz modrinth add -y no-chat-reports
 packwiz modrinth add -y no-enderman-grief
-packwiz modrinth add -y ore-harvester
 packwiz modrinth add -y smarter-farmers-farmers-replant
 packwiz modrinth add -y sodium
 packwiz modrinth add -y sodium-extra
@@ -64,7 +64,7 @@ packwiz modrinth add -y structory-towers
 packwiz modrinth add -y supplementaries
 packwiz modrinth add -y tectonic
 packwiz modrinth add -y terralith
-packwiz modrinth add -y tree-harvester
+packwiz modrinth add -y veinminer
 packwiz modrinth add -y villager-names-serilum
 packwiz modrinth add -y xaeros-minimap
 packwiz modrinth add -y xaeros-world-map
