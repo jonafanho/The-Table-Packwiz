@@ -64,7 +64,6 @@ packwiz modrinth add -y structory-towers
 packwiz modrinth add -y supplementaries
 packwiz modrinth add -y tectonic
 packwiz modrinth add -y terralith
-packwiz modrinth add -y veinminer
 packwiz modrinth add -y villager-names-serilum
 packwiz modrinth add -y xaeros-minimap
 packwiz modrinth add -y xaeros-world-map

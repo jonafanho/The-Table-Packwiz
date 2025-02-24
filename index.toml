@@ -9,6 +9,10 @@ file = "mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar"
 hash = "e1d06438a5a9618fca45e754e7698b68b82eed15b3971ab742174c54d41d6ac9"
 
 [[files]]
+file = "mods/Veinminer-2.0.4.jar"
+hash = "85775fa7a9d95f7265b05fe1250e274be2dc0a2b014e40ab992b7ffa70c822e6"
+
+[[files]]
 file = "mods/ad-astra-delight.pw.toml"
 hash = "1b294c19303c5be647430e6d47fd3c50d9b0daf86eca6cea947f1ef6030f9f1d"
 metafile = true
@@ -354,9 +358,8 @@ hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
-file = "mods/silk.pw.toml"
-hash = "3159f65be74fdf8c382f2079d9db965972c8612e661f126be522ae37a73c34f8"
-metafile = true
+file = "mods/silk-all-1.10.1.jar"
+hash = "348aa6f66135db051ac20753fa792506864346afd1051ffaae5604c290f94338"
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
@@ -410,11 +413,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "213860e0c0161f60fba897f526d92ca703208dd26b636e6eaadb2c715d8a2f58"
 metafile = true
 
 [[files]]
