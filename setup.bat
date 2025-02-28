@@ -20,6 +20,7 @@ packwiz modrinth add -y continuity
 packwiz modrinth add -y ct-overhaul-village
 packwiz modrinth add -y ctov-farmers-delight-compat
 packwiz modrinth add -y cultural-delights-fabric
+packwiz modrinth add -y dcintegration
 packwiz modrinth add -y emi
 packwiz modrinth add -y emi-enchanting
 packwiz modrinth add -y emi-loot
