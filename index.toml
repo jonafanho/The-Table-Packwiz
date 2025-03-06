@@ -9,13 +9,17 @@ file = "mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar"
 hash = "e1d06438a5a9618fca45e754e7698b68b82eed15b3971ab742174c54d41d6ac9"
 
 [[files]]
+file = "mods/MTR-fabric-4.0.0-beta.15+hotfix.1+1.20.1.jar"
+hash = "cfbabd31d4204f9316af144b50a0b294c46040ad51b06a3694489056d72df13d"
+
+[[files]]
 file = "mods/ad-astra-delight.pw.toml"
 hash = "1b294c19303c5be647430e6d47fd3c50d9b0daf86eca6cea947f1ef6030f9f1d"
 metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "0743031d2dbaebdf7e3c18cd1ef493a40c8b48ce534342f48e4764c49ad9ff4f"
+hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
 
 [[files]]
@@ -25,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "375d3edef0d8974ea803f2935fcc78a52d536e5a74f18f26aa67ddd316c5f224"
+hash = "85fc3f866a8f0c3b1b208c830d0fb737cc13f9fe3928a4ca5f005fdadfc6d175"
 metafile = true
 
 [[files]]
@@ -100,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "595fd01031be460097435c8fed3777e7736b0daf0321f9237dad75b4cd507a84"
+hash = "47bfb455847e99dd0555d3ced5ce3c48b927a93f06103bd8e6299454a03a490e"
 metafile = true
 
 [[files]]
@@ -110,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "6e66d8e47c8945fda0a376307ad2baa56bfdf7b02122251b46dfaae3fc5789f6"
+hash = "1dcb516365d51f19d06743589864685f7c02c3476229a6b4af98f1a0d7ab8bc0"
 metafile = true
 
 [[files]]
@@ -225,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
@@ -294,11 +298,6 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-transit-railway.pw.toml"
-hash = "a52ee1388d7462f2eacb9b390d5737cc3496f5e36c5cd81bc88ef2528244670c"
-metafile = true
-
-[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "5e140793f9c08f4466342b2a25a075fe6dc27b883cd8346a7d44e6bc6af6e972"
 metafile = true
@@ -310,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d9b1af17efecfdfbb68ebee90efac0e33aee6ef7c483412bd3fda19744e21539"
+hash = "7d3f6050aa325263ac720038e99aa72ba6bb464601dfac5a956d48659a2ebba2"
 metafile = true
 
 [[files]]
@@ -375,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]

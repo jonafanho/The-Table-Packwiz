@@ -49,7 +49,6 @@ packwiz modrinth add -y lambdynamiclights
 packwiz modrinth add -y lithium
 packwiz modrinth add -y lootr
 packwiz modrinth add -y memoryleakfix
-packwiz modrinth add -y minecraft-transit-railway
 packwiz modrinth add -y modern-industrialization
 packwiz modrinth add -y modmenu
 packwiz modrinth add -y naturalist
