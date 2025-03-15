@@ -10,7 +10,7 @@ hash = "e1d06438a5a9618fca45e754e7698b68b82eed15b3971ab742174c54d41d6ac9"
 
 [[files]]
 file = "mods/MTR-fabric-4.0.0-beta.15+hotfix.1+1.20.1.jar"
-hash = "cfbabd31d4204f9316af144b50a0b294c46040ad51b06a3694489056d72df13d"
+hash = "e98c2d049a88a1d232f6c45e0cec49629c3bab6434ebc180de5f0628a2f4c2d5"
 
 [[files]]
 file = "mods/ad-astra-delight.pw.toml"
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "7fcd61647cb58f7d690016a19c9e89e7280dcd1a31f57c66426ac95ec0e66653"
+hash = "b14dee29e8484c1f489581af8c87e280927803fda83a325b1a45efe697d00a97"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9189950e68af278daaef951d8ef23b06f567f27d8c9f50df898ac0117d35c93c"
+hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7d3f6050aa325263ac720038e99aa72ba6bb464601dfac5a956d48659a2ebba2"
+hash = "5590eaf0dfc38b96940a8a699079052a7c5723c03528b0cfaca646c2e9d64da8"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "6b7e9ed619297a29eb6db95f860734144876aa68922de63a05409b65ad8bd163"
+hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
 
 [[files]]
