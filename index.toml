@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
+hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
 
 [[files]]
@@ -204,12 +204,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b14dee29e8484c1f489581af8c87e280927803fda83a325b1a45efe697d00a97"
+hash = "db1c59e9b1ed0585101398c45723e2b0de6ab348d4ac2d4fa00632826d0d7e94"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
+hash = "7d4e9f5ab4f22f929c458fa88c003d6679eadafe287d180df17f9853c18b83d1"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
+hash = "b4f42a6d80526e217e9f0f9fa698f6ef81697b94880803bcd5a14dd284bcb4b6"
 metafile = true
 
 [[files]]
@@ -309,12 +309,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5590eaf0dfc38b96940a8a699079052a7c5723c03528b0cfaca646c2e9d64da8"
+hash = "faf1703e9b3fd77a28f85c6cec48a243abcd9116b0d4e93219b52308a351f5c0"
 metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "cdc3b40078ef395c5b4863a74dd58f6c3cd1a4f5eeea7e3782318ef28d99438c"
+hash = "bddfb122f9892e16a6dbf17de7483dda5be5ac80b133363bcce3ea8122fa5d50"
 metafile = true
 
 [[files]]
@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7f8373ddb35a3d5ed84797a5f55917b67f839c9ed06666240c87687b19efaadc"
+hash = "dba82d56d2514555ac3e326359a913c804b1a1137a6d696d80f73aadaf0ff62f"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c45d6735a5767c1486000d95dd0d4ed6e2c1227edf6b2ff305d40ad859af1ce0"
+hash = "b12c51b126c3b08ea3b3189b96662dc0c5c7b08cb7ce08261480aa364a2f4477"
 metafile = true
 
 [[files]]
@@ -508,4 +508,4 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "20d092da7c39318e2fcf16690b453d884eafa6d0bdb4367faff67cb4eeeca2bf"
+hash = "153f94cf01a21402c1a6f87810f4730aab5288d7a2f1f42e8f3689222b0f8a01"
